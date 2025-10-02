@@ -1,306 +1,308 @@
 NUMBER	ENGLISH	PAGE
-	1p	
-	1s	
-	2p (familiar)	
-	2p (honorific)	
-	2s (familiar)	
-	2s (honorific)	
-	3p	
-	3s (female)	
-	3s (generic/male)	
-	above	
-	all	
-	ant	
-	arrow	
-	ashes	
-	axe	
-	back	
-	bad	
-	bamboo	
-	banana	
-	bear	
-	bee	
-	belly	
-	below	
-	betelnut	
-	big	
-	bird	
-	bitter	
-	black	
-	blanket	
-	blood	
-	boat	
-	body	
-	bone	
-	bow	
-	branch	
-	broken	
-	broom	
-	cabbage	
-	candle	
-	cat	
-	cauliflower	
-	cheek	
-	chicken (adult female)	
-	chin	
-	clothing	
-	cloud	
-	cockroach	
-	coconut (ripe)	
-	cold (weather)	
-	cooked rice	
-	corn	
-	cow	
-	crocodile	
-	daughter	
-	day	
-	deep	
-	deer	
-	different	
-	dog	
-	door	
-	dry	
-	duck	
-	dust	
-	ear	
-	egg	
-	eggplant	
-	eight	
-	elbow	
-	elephant	
-	eleven	
-	empty (cup)	
-	evening	
-	eye	
-	face	
-	family	
-	far	
-	fast	
-	fat	
-	father	
-	finger	
-	fingernail	
-	fire	
-	fish	
-	five	
-	flower	
-	fly	
-	foot	
-	four	
-	friend	
-	frog	
-	fruit	
-	full (cup)	
-	garlic	
-	goat	
-	gold	
-	good	
-	green	
-	hair	
-	hammer	
-	hand	
-	head	
-	heart (organ)	
-	heavy	
-	horn (of buffalo)	
-	hot (weather)	
-	house	
-	house lizard	
-	how many	
-	hundred	
-	hungry	
-	husband	
-	insect	
-	jackfruit	
-	knee	
-	knife (to cut meat)	
-	leaf	
-	left	
-	lightning	
-	light (not heavy)	
-	lime for betelnut	
-	liquor	
-	long	
-	man	
-	mango	
-	many	
-	meat	
-	medicine	
-	milk	
-	monkey	
-	month	
-	moon	
-	morning	
-	mosquito	
-	mother	
-	mountain	
-	mouth	
-	mud	
-	name	
-	narrow	
-	near	
-	neck	
-	needle	
-	new	
-	night	
-	nine	
-	noon	
-	nose	
-	oil	
-	old	
-	older brother	
-	older sister	
-	one	
-	onion	
-	paddy rice	
-	palm	
-	paper	
-	peanut	
-	pepper	
-	person	
-	pig	
-	pillow	
-	potato	
-	rabbit	
-	rain	
-	rainbow	
-	rat	
-	red	
-	right	
-	ring (on finger)	
-	ripe	
-	river	
-	road	
-	roof	
-	root	
-	rotten (fruit)	
-	salt	
-	same	
-	sand	
-	sea	
-	seed	
-	seven	
-	shallow	
-	short (length)	
-	silver	
-	sister-younger	
-	six	
-	skin	
-	sky	
-	slow	
-	small	
-	smoke	
-	snake	
-	soil/ground	
-	some	
-	son	
-	sour	
-	SOURCE_CONCEPT	
-	spear	
-	"spicy, hot"	
-	spider	
-	spoon (for eating)	
-	star	
-	stone	
-	sugarcane	
-	sun	
-	sweat	
-	sweet	
-	tail	
-	ten	
-	that thing	
-	these things	
-	thin	
-	thirsty	
-	this thing	
-	thorn	
-	those things	
-	thousand	
-	thread	
-	three	
-	thunder	
-	tiger	
-	to bite	
-	to boil (water)	
-	to burn	
-	to buy	
-	to come	
-	to cook	
-	to cry	
-	to cut (something)	
-	to dance	
-	today	
-	to die	
-	to do/make	
-	to dream	
-	to drink	
-	to eat	
-	to enter	
-	to fly	
-	to forget	
-	to give	
-	to go	
-	to hate	
-	to hear	
-	to kick	
-	to kill	
-	to know	
-	to laugh	
-	to lie down	
-	"to lie, fib"	
-	to lift	
-	to love	
-	tomorrow	
-	tongue	
-	tooth	
-	to play	
-	to pull	
-	to push	
-	to see	
-	to sell	
-	to sew	
-	to sing	
-	to sit	
-	to sleep	
-	to speak	
-	to stand	
-	to steal	
-	to swim	
-	to take	
-	to take bath	
-	to throw	
-	to tie	
-	to wait	
-	to walk	
-	to wash (face/hand)	
-	to weave (on loom)	
-	to wipe	
-	to work	
-	tree	
-	turtle	
-	twelve	
-	twenty	
-	two	
-	uncooked rice	
-	village	
-	wall (of house)	
-	water	
-	water buffalo	
-	week	
-	wet	
-	what	
-	wheat	
-	when (near future)	
-	where	
-	white	
-	who	
-	"wide, broad"	
-	wife	
-	wind	
-	window	
-	woman	
-	wrong	
-	year	
-	yellow	
-	yesterday	
-	younger brother	
+303	1p	152
+298	1s	151
+304	2p (familiar)	152
+305	2p (honorific)	152
+299	2s (familiar)	151
+299	2s (honorific)	151
+300	2s (honorific)	151
+303	3p	153
+302	3s (female)	152
+301	3s (generic/male)	152
+278	above	146
+240	all	136
+97	ant	96
+163	arrow	111
+166	ashes	111
+161	axe	110
+125	back	102
+274	bad	145
+48	bamboo	86
+52	banana	87
+69	bear	91
+94	bee	96
+123	belly	102
+279	below	146
+57	betelnut	88
+241	big	136
+91	bird	95
+259	bitter	141
+284	black	147
+150	blanket	108
+121	blood	101
+169	boat	112
+126	body	102
+118	bone	101
+162	bow	111
+44	branch	85
+277	broken	145
+157	broom	109
+40	cabbage	84
+168	candle	112
+79	cat	93
+39	cauliflower	84
+106	cheek	98
+87	chicken (adult female)	95
+107	chin	99
+152	clothing	108
+5	cloud	78
+93	cockroach	95
+51	coconut (ripe)	87
+272	cold (weather)	144
+35	cooked rice	84
+37	corn	84
+80	cow	93
+74	crocodile	92
+136	daughter	105
+28	day	83
+251	deep	139
+70	deer	91
+268	different	144
+78	dog	93
+145	door	107
+269	dry	144
+90	duck	95
+17	dust	81
+105	ear	98
+88	egg	95
+41	eggplant	85
+230	eight	134
+111	elbow	99
+67	elephant	91
+233	eleven	135
+254	empty (cup)	139
+31	evening	84
+103	eye	98
+100	face	97
+130	family	104
+280	far	146
+265	fast	143
+119	fat	101
+247	fat	138
+131	father	104
+114	finger	100
+115	fingernail	100
+165	fire	111
+89	fish	95
+227	five	133
+54	flower	87
+95	fly	96
+117	foot	101
+226	four	133
+141	friend	106
+77	frog	93
+49	fruit	86
+253	full (cup)	139
+65	garlic	90
+84	goat	94
+20	gold	82
+273	good	144
+287	green	148
+102	hair	98
+160	hammer	110
+112	hand	100
+99	head	97
+124	heart (organ)	102
+245	heavy	137
+82	horn (of buffalo)	94
+271	hot (weather)	144
+144	house	107
+75	house lizard	92
+293	how many	150
+236	hundred	135
+255	hungry	140
+133	husband	104
+92	insect	95
+50	jackfruit	86
+116	knee	100
+159	knife (to cut meat)	110
+45	leaf	85
+283	left	147
+246	light (not heavy)	137
+9	lightning	79
+58	lime for betelnut	88
+59	liquor	89
+243	long	137
+128	man	103
+53	mango	87
+239	many	136
+62	meat	89
+153	medicine	108
+60	milk	89
+71	monkey	91
+26	month	83
+3	moon	78
+29	morning	83
+98	mosquito	97
+132	mother	104
+12	mountain	80
+108	mouth	99
+16	mud	81
+142	name	107
+250	narrow	138
+281	near	147
+101	neck	97
+155	needle	109
+275	new	145
+32	night	84
+231	nine	134
+30	noon	83
+104	nose	98
+61	oil	89
+276	old	145
+137	older brother	105
+138	older sister	106
+223	one	132
+64	onion	90
+33	paddy rice	84
+113	palm	100
+154	paper	108
+42	peanut	85
+66	pepper	90
+127	person	102
+85	pig	94
+149	pillow	108
+38	potato	84
+72	rabbit	91
+6	rain	78
+7	rainbow	79
+86	rat	94
+286	red	148
+263	right	142
+282	right	147
+151	ring (on finger)	108
+261	ripe	142
+14	river	80
+170	road	112
+147	roof	107
+47	root	86
+262	rotten (fruit)	142
+63	salt	90
+267	same	143
+19	sand	81
+11	sea	80
+55	seed	88
+229	seven	134
+252	shallow	139
+244	short (length)	137
+21	silver	82
+140	sister-younger	106
+228	six	134
+120	skin	101
+1	sky	78
+266	slow	143
+242	small	137
+167	smoke	111
+73	snake	92
+15	soil/ground	81
+238	some	136
+135	son	105
+258	sour	141
+164	spear	111
+260	spicy, hot	141
+96	spider	96
+158	spoon (for eating)	110
+4	star	78
+18	stone	81
+56	sugarcane	88
+2	sun	78
+122	sweat	102
+257	sweet	140
+83	tail	94
+232	ten	135
+295	that thing	150
+296	these things	151
+248	thin	138
+256	thirsty	140
+294	this thing	150
+46	thorn	86
+297	those things	151
+237	thousand	135
+156	thread	109
+225	three	133
+10	thunder	80
+68	tiger	91
+190	to bite	118
+186	to boil (water)	117
+212	to burn	128
+213	to buy	128
+172	to come	112
+185	to cook	117
+184	to cry	116
+211	to cut (something)	127
+200	to dance	123
+220	to die	131
+197	to do/make	121
+196	to dream	121
+188	to drink	118
+187	to eat	117
+178	to enter	114
+177	to fly	114
+194	to forget	120
+218	to give	130
+171	to go	112
+222	to hate	132
+182	to hear	116
+179	to kick	115
+219	to kill	131
+193	to know	120
+191	to laugh	119
+175	to lie down	113
+216	to lie, fib	129
+202	to lift	124
+221	to love	131
+199	to play	122
+204	to pull	125
+203	to push	124
+181	to see	116
+214	to sell	128
+208	to sew	126
+189	to sing	118
+174	to sit	113
+195	to sleep	121
+192	to speak	119
+173	to stand	113
+215	to steal	129
+180	to swim	115
+217	to take	130
+210	to take bath	127
+201	to throw	123
+205	to tie	125
+183	to wait	116
+176	to walk	114
+209	to wash (face/hand)	126
+207	to weave (on loom)	126
+206	to wipe	125
+198	to work	122
+22	today	82
+24	tomorrow	82
+109	tongue	99
+110	tooth	99
+43	tree	85
+76	turtle	92
+234	twelve	135
+235	twenty	135
+224	two	132
+34	uncooked rice	84
+143	village	107
+148	wall (of house)	107
+13	water	80
+81	water buffalo	93
+25	week	82
+270	wet	144
+292	what	149
+36	wheat	84
+289	when (near future)	148
+290	where	149
+285	white	147
+291	who	149
+249	wide, broad	138
+134	wife	104
+8	wind	79
+146	window	107
+129	woman	103
+264	wrong	142
+27	year	83
+288	yellow	148
+23	yesterday	82
+139	younger brother	106
