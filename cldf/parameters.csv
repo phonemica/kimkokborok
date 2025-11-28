@@ -1,0 +1,303 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1-sky,sky,1732,SKY
+2-sun,sun,1343,SUN
+3-moon,moon,1313,MOON
+4-star,star,1430,STAR
+5-cloud,cloud,1489,CLOUD
+6-rain,rain,658,RAIN (PRECIPITATION)
+7-rainbow,rainbow,1733,RAINBOW
+8-wind,wind,960,WIND
+9-lightning,lightning,1654,LIGHTNING
+10-thunder,thunder,1150,THUNDER
+11-sea,sea,1474,SEA
+12-mountain,mountain,639,MOUNTAIN
+13-water,water,948,WATER
+14-river,river,666,RIVER
+15-soilground,soil/ground,1228,EARTH (SOIL)
+16-mud,mud,640,MUD
+17-dust,dust,2,DUST
+18-stone,stone,857,STONE
+19-sand,sand,671,SAND
+20-gold,gold,1369,GOLD
+21-silver,silver,759,SILVER
+22-today,today,1283,TODAY
+23-yesterday,yesterday,1174,YESTERDAY
+24-tomorrow,tomorrow,1329,TOMORROW
+25-week,week,1469,WEEK
+26-month,month,1370,MONTH
+27-year,year,1226,YEAR
+28-day,day,1225,DAY (NOT NIGHT)
+29-morning,morning,1339,MORNING
+30-noon,noon,12,MIDDAY
+31-evening,evening,1629,EVENING
+32-night,night,1233,NIGHT
+33-paddyrice,paddy rice,2026,RICE PLANT
+34-uncookedrice,uncooked rice,3289,UNCOOKED RICE
+35-cookedrice,cooked rice,1191,COOKED RICE
+36-wheat,wheat,1077,WHEAT
+37-corn,corn,506,MAIZE
+38-potato,potato,593,POTATO
+39-cauliflower,cauliflower,2843,CAULIFLOWER
+40-cabbage,cabbage,774,CABBAGE
+41-eggplant,eggplant,1146,AUBERGINE
+42-peanut,peanut,595,GROUNDNUT (PEANUT)
+43-tree,tree,906,TREE
+44-branch,branch,1531,BRANCH
+45-leaf,leaf,628,LEAF
+46-thorn,thorn,124,THORN
+47-root,root,670,ROOT
+48-bamboo,bamboo,1927,BAMBOO
+49-fruit,fruit,1507,FRUIT
+50-jackfruit,jackfruit,2655,JACKFRUIT
+51-coconutripe,coconut (ripe),970,COCONUT
+52-banana,banana,868,BANANA
+53-mango,mango,2398,MANGO
+54-flower,flower,239,FLOWER
+55-seed,seed,714,SEED
+56-sugarcane,sugarcane,146,SUGAR CANE
+57-betelnut,betelnut,217,BETELNUT
+58-limeforbetelnut,lime for betelnut,2540,LIME (MATERIAL)
+59-liquor,liquor,842,LIQUOR
+60-milk,milk,635,MILK
+61-oil,oil,1484,OIL (ORGANIC SUBSTANCE)
+62-meat,meat,634,MEAT
+63-salt,salt,1274,SALT
+64-onion,onion,2366,ONION
+65-garlic,garlic,2368,GARLIC
+66-pepper,pepper,1385,PEPPER
+67-elephant,elephant,1290,ELEPHANT
+68-tiger,tiger,846,TIGER
+69-bear,bear,1820,BEAR
+70-deer,deer,1936,DEER
+71-monkey,monkey,1350,MONKEY
+72-rabbit,rabbit,1136,RABBIT
+73-snake,snake,730,SNAKE
+74-crocodile,crocodile,1857,CROCODILE
+75-houselizard,house lizard,2355,GECKO
+76-turtle,turtle,112,TURTLE
+77-frog,frog,503,FROG
+78-dog,dog,2009,DOG
+79-cat,cat,1208,CAT
+80-cow,cow,1007,COW
+81-waterbuffalo,water buffalo,2516,WATER BUFFALO
+82-hornofbuffalo,horn (of buffalo),1393,HORN (ANATOMY)
+83-tail,tail,1220,TAIL
+84-goat,goat,1502,GOAT
+85-pig,pig,1337,PIG
+86-rat,rat,1490,RAT
+87-chickenadultfemale,chicken (adult female),1514,HEN
+88-egg,egg,744,EGG
+89-fish,fish,227,FISH
+90-duck,duck,1360,DUCK
+91-bird,bird,937,BIRD
+92-insect,insect,620,INSECT
+93-cockroach,cockroach,1575,COCKROACH
+94-bee,bee,665,BEE
+95-fly,fly,1504,FLY (INSECT)
+96-spider,spider,843,SPIDER
+97-ant,ant,587,ANT
+98-mosquito,mosquito,1509,MOSQUITO
+99-head,head,1256,HEAD
+100-face,face,1560,FACE
+101-neck,neck,1333,NECK
+102-hair,hair,2648,HAIR (HEAD)
+103-eye,eye,1248,EYE
+104-nose,nose,1221,NOSE
+105-ear,ear,1247,EAR
+106-cheek,cheek,1730,CHEEK
+107-chin,chin,1510,CHIN
+108-mouth,mouth,674,MOUTH
+109-tongue,tongue,1205,TONGUE
+110-tooth,tooth,1380,TOOTH
+111-elbow,elbow,981,ELBOW
+112-hand,hand,1277,HAND
+113-palm,palm,1183,PALM OF HAND
+114-finger,finger,1303,FINGER
+115-fingernail,fingernail,1258,FINGERNAIL
+116-knee,knee,1371,KNEE
+117-foot,foot,1301,FOOT
+118-bone,bone,1394,BONE
+120-skin,skin,763,SKIN
+121-blood,blood,946,BLOOD
+122-sweat,sweat,125,SWEAT (SUBSTANCE)
+123-belly,belly,1251,BELLY
+124-heartorgan,heart (organ),1223,HEART
+125-back,back,1291,BACK
+126-body,body,1480,BODY
+127-person,person,683,PERSON
+128-man,man,1554,MAN
+129-woman,woman,962,WOMAN
+130-family,family,194,FAMILY
+131-father,father,1217,FATHER
+132-mother,mother,1216,MOTHER
+133-husband,husband,1200,HUSBAND
+134-wife,wife,1199,WIFE
+135-son,son,1620,SON
+136-daughter,daughter,1357,DAUGHTER
+137-olderbrother,older brother,1759,OLDER BROTHER
+138-oldersister,older sister,1758,OLDER SISTER
+139-youngerbrother,younger brother,1760,YOUNGER BROTHER
+140-sisteryounger,sister-younger,1761,YOUNGER SISTER
+141-friend,friend,1325,FRIEND
+142-name,name,1405,NAME
+143-village,village,930,VILLAGE
+144-house,house,1252,HOUSE
+145-door,door,1567,DOOR
+146-window,window,1375,WINDOW
+147-roof,roof,769,ROOF
+148-wallofhouse,wall (of house),933,WALL (OF HOUSE)
+149-pillow,pillow,1044,PILLOW
+150-blanket,blanket,806,BLANKET
+151-ringonfinger,ring (on finger),1374,RING
+152-clothing,clothing,1895,CLOTHES
+153-medicine,medicine,1372,MEDICINE
+154-paper,paper,648,PAPER
+155-needle,needle,1382,NEEDLE (FOR SEWING)
+156-thread,thread,1161,THREAD
+157-broom,broom,245,BROOM
+158-spoonforeating,spoon (for eating),1378,SPOON
+159-knifetocutmeat,knife (to cut meat),1352,KNIFE
+160-hammer,hammer,1481,HAMMER
+161-axe,axe,677,AXE
+162-bow,bow,994,BOW
+163-arrow,arrow,977,ARROW
+164-spear,spear,945,SPEAR
+165-fire,fire,221,FIRE
+166-ashes,ashes,646,ASH
+167-smoke,smoke,778,SMOKE (EXHAUST)
+168-candle,candle,1273,CANDLE
+169-boat,boat,1844,BOAT
+170-road,road,667,ROAD
+171-togo,to go,695,GO
+172-tocome,to come,1446,COME
+173-tostand,to stand,1442,STAND
+174-tosit,to sit,1416,SIT
+175-toliedown,to lie down,215,LIE DOWN
+176-towalk,to walk,1443,WALK
+177-tofly,to fly,1441,FLY (MOVE THROUGH AIR)
+178-toenter,to enter,749,ENTER
+179-tokick,to kick,1135,KICK
+180-toswim,to swim,1439,SWIM
+181-tosee,to see,1409,SEE
+182-tohear,to hear,1408,HEAR
+183-towait,to wait,1590,WAIT (FOR)
+184-tocry,to cry,1839,CRY
+185-tocook,to cook,1100,COOK (SOMETHING)
+186-toboilwater,to boil (water),792,BOIL (OF LIQUID)
+187-toeat,to eat,1336,EAT
+188-todrink,to drink,1401,DRINK
+189-tosing,to sing,1261,SING
+190-tobite,to bite,1403,BITE
+191-tolaugh,to laugh,1355,LAUGH
+192-tospeak,to speak,1623,SPEAK
+193-toknow,to know,3626,KNOW
+194-toforget,to forget,1523,FORGET
+195-tosleep,to sleep,1585,SLEEP
+196-todream,to dream,1920,DREAM (SOMETHING)
+197-todomake,to do/make,2575,DO OR MAKE
+198-towork,to work,1086,WORK (ACTIVITY)
+199-toplay,to play,1413,PLAY
+200-todance,to dance,1879,DANCE
+201-tothrow,to throw,1456,THROW
+202-tolift,to lift,501,LIFT
+203-topush,to push,1452,PUSH
+204-topull,to pull,1455,PULL
+205-totie,to tie,1917,TIE
+206-towipe,to wipe,1454,WIPE
+207-toweaveonloom,to weave (on loom),133,WEAVE
+208-tosew,to sew,1457,SEW
+209-towashfacehand,to wash (face/hand),1453,WASH
+210-totakebath,to take bath,138,BATHE
+211-tocutsomething,to cut (something),1432,CUT
+212-toburn,to burn,2102,BURN
+213-tobuy,to buy,1869,BUY
+214-tosell,to sell,1571,SELL
+215-tosteal,to steal,713,STEAL
+216-toliefib,"to lie, fib",601,LIE (MISLEAD)
+217-totake,to take,1749,TAKE
+218-togive,to give,1447,GIVE
+219-tokill,to kill,1417,KILL
+220-todie,to die,1494,DIE
+221-tolove,to love,923,LOVE
+222-tohate,to hate,1607,HATE
+223-one,one,1493,ONE
+224-two,two,1498,TWO
+225-three,three,492,THREE
+226-four,four,1500,FOUR
+227-five,five,493,FIVE
+228-six,six,1703,SIX
+229-seven,seven,1704,SEVEN
+230-eight,eight,1705,EIGHT
+231-nine,nine,1483,NINE
+232-ten,ten,1515,TEN
+233-eleven,eleven,1706,ELEVEN
+234-twelve,twelve,1707,TWELVE
+235-twenty,twenty,1710,TWENTY
+236-hundred,hundred,1634,HUNDRED
+237-thousand,thousand,1843,THOUSAND
+238-some,some,1241,SOME
+239-many,many,1198,MANY
+240-all,all,98,ALL
+241-big,big,1202,BIG
+242-small,small,1246,SMALL
+243-long,long,1203,LONG
+244-shortlength,short (length),1645,SHORT
+245-heavy,heavy,1210,HEAVY
+246-lightnotheavy,light (not heavy),1052,LIGHT (WEIGHT)
+248-thin,thin,1400,THIN (SLIM)
+249-widebroad,"wide, broad",1243,WIDE
+250-narrow,narrow,1267,NARROW
+251-deep,deep,1593,DEEP
+252-shallow,shallow,193,SHALLOW
+253-fullcup,full (cup),1429,FULL
+254-emptycup,empty (cup),1624,EMPTY
+255-hungry,hungry,1533,BE HUNGRY
+256-thirsty,thirsty,847,THIRSTY
+257-sweet,sweet,717,SWEET
+258-sour,sour,1906,SOUR
+259-bitter,bitter,887,BITTER
+260-spicyhot,"spicy, hot",544,SPICY
+261-ripe,ripe,178,RIPE
+262-rottenfruit,rotten (fruit),1728,ROTTEN
+264-wrong,wrong,1390,WRONG
+265-fast,fast,1631,FAST
+266-slow,slow,701,SLOW
+267-same,same,200,SAME
+268-different,different,2504,DIFFERENT
+269-dry,dry,1398,DRY
+270-wet,wet,1726,WET
+271-hotweather,hot (weather),1286,HOT
+272-coldweather,cold (weather),2483,COLD (OF WEATHER)
+273-good,good,1035,GOOD
+274-bad,bad,1292,BAD
+275-new,new,1231,NEW
+276-old,old,2112,OLD (AGED)
+277-broken,broken,588,BROKEN
+278-above,above,1741,ABOVE
+279-below,below,1485,BELOW OR UNDER
+280-far,far,1406,FAR
+281-near,near,1942,NEAR
+283-left,left,244,LEFT
+284-black,black,163,BLACK
+285-white,white,1335,WHITE
+286-red,red,156,RED
+287-green,green,1425,GREEN
+288-yellow,yellow,1424,YELLOW
+289-whennearfuture,when (near future),1238,WHEN
+290-where,where,1237,WHERE
+291-who,who,1235,WHO
+292-what,what,1236,WHAT
+293-howmany,how many,822,HOW MANY
+294-thisthing,this thing,1214,THIS
+295-thatthing,that thing,78,THAT
+296-thesethings,these things,,
+297-thosethings,those things,,
+298-1s,1s,1209,I
+299-2sfamiliar,2s (familiar),1215,THOU
+300-2shonorific,2s (honorific),3292,THOU (HONORIFIC)
+301-3sgenericmale,3s (generic/male),1211,HE
+302-3sfemale,3s (female),1834,SHE
+303-1p,1p,1212,WE
+304-3p,3p,817,THEY
+305-2pfamiliar,2p (familiar),1213,YOU
+306-2phonorific,2p (honorific),3293,YOU (HONORIFIC)

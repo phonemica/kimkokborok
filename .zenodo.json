@@ -1,0 +1,38 @@
+{
+    "title": "CLDF dataset derived from Kim et al's \"The Tripura of Bangladesh: A Sociolinguistic Survey\" from 2011",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Kim, Amy"
+        },
+        {
+            "name": "Roy, Palash"
+        },
+        {
+            "name": "Sangma, Mridul"
+        },
+        {
+            "name": "Kim, Seung"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "van Dam, Kellen Parker",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kim, Amy and Roy, Palash and Sangma, Mridul and Kim, Seung (2011) The Tripura of Bangladesh: A Sociolinguistic Survey. Journal of Language Survey Reports. Dallas: SIL International</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

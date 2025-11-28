@@ -15,30 +15,46 @@ class Dataset(BaseDataset):
         # (1) add bib
         args.writer.add_sources()
         args.log.info("added sources")
+        
+        sources = {}
+        for language in self.languages:
+            args.writer.add_language(
+                    ID=language["ID"],
+                    Name=language["Name"],
+                    Glottocode=language["Glottocode"],
+                    )
+            sources[language["ID"]] = language["Sources"]
 
         # (2) add concepts
         concepts = {}
-        for concept in self.conceptlists[0].concepts.values():
-            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
+        for concept in self.concepts:
+            idx = concept["NUMBER"] + "-" + slug(concept["ENGLISH"])
             args.writer.add_concept(
-                ID=idx,
-                Name=concept.english,
-                Concepticon_ID=concept.concepticon_id,
-                Concepticon_Gloss=concept.concepticon_gloss,
-            )
-            concepts[concept.id] = idx
+                    ID=idx,
+                    Name=concept["ENGLISH"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                    )
+            concepts[concept["ENGLISH"]] = idx
         args.log.info("added concepts")
 
         # read in data
         data = self.raw_dir.read_csv("data.tsv", delimiter="\t", dicts=True)
 
         # add data
+        errors = set()
+
         for entry in data:
-            args.writer.add_form_with_segments(
-                Language_ID=entry["DOCULECT"],
-                Parameter_ID=concepts["ID"],
-                Value=entry["IPA"],
-                Form=entry["IPA"],
-                Segments=entry["TOKENS"],
-                Source="Kim2011",
-            )
+            if entry["SOURCE_CONCEPT"] in concepts:
+                args.writer.add_form_with_segments(
+                    Language_ID=entry["DOCULECT"],
+                    Parameter_ID=concepts[entry["SOURCE_CONCEPT"]],
+                    Value=entry["IPA"],
+                    Form=entry["IPA"],
+                    Segments=entry["TOKENS"].split(),
+                    Source=sources[entry["DOCULECT"]],
+                )
+            else:
+                errors.add(entry["SOURCE_CONCEPT"])
+        for error in errors:
+            print(error)
