@@ -6,6 +6,31 @@ from pylexibank import progressbar as pb
 from pylexibank import FormSpec
 
 
+mapper = {
+    "tsh": "tsʰ",
+    "ʧʰ": "tʃʰ",
+    "ʦ": "ts",
+    "ʧ": "tʃ",
+    "ʤ": "dʒ",
+    "ʤʰ": "dʒʰ",
+    "oio": "oi o",
+    "ũai": "ũ ai",
+    "nn": "n n",
+    "kk": "k k",
+    "pp": "p p",
+    "ouo": "ou o",
+    "aui": "au i",
+    "aoi": "ao i",
+    "oii": "oiː",
+    "uai": "u ai",
+    "auɯ": "au ɯ",
+    "oai": "o ai",
+    "oui": "ou i",
+    "aĩa": "aĩ a",
+    "iau": "i au",
+}
+
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "kimkokborok"
@@ -46,12 +71,16 @@ class Dataset(BaseDataset):
 
         for entry in data:
             if entry["SOURCE_CONCEPT"] in concepts:
+                segments_ = entry["TOKENS"].split()
+                segments = []
+                for s in segments_:
+                    segments += mapper.get(s, s).split(" ")
                 args.writer.add_form_with_segments(
                     Language_ID=entry["DOCULECT"],
                     Parameter_ID=concepts[entry["SOURCE_CONCEPT"]],
                     Value=entry["IPA"],
                     Form=entry["IPA"],
-                    Segments=entry["TOKENS"].split(),
+                    Segments=segments,
                     Source=sources[entry["DOCULECT"]],
                 )
             else:
