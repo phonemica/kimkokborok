@@ -42,6 +42,7 @@ Available online at https://www.sil.org/resources/archives/41655
 | Sangma, Mridul         |             | author      | Author |
 | Kim, Seung             |             | author      | Author |
 | van Dam, Kellen Parker | @patkaiist  | maintainer  | Editor |
+| Johann-Mattis List     | @lingulist  | help with CLDF conversion | Other | 
 
 
 

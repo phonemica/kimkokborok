@@ -7,3 +7,4 @@
 | Sangma, Mridul         |             | author      | Author |
 | Kim, Seung             |             | author      | Author |
 | van Dam, Kellen Parker | @patkaiist  | maintainer  | Editor |
+| Johann-Mattis List     | @lingulist  | help with CLDF conversion | Other | 
