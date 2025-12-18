@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:phonemica/kimkokborok/",
             "rdf:type": "prov:Entity",
-            "dc:created": "5dab275",
+            "dc:created": "def78f4",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.7"
+            "dc:description": "3.13.11"
         },
         {
             "dc:title": "python-packages",
@@ -56,7 +56,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 7156,
+            "dc:extent": 7247,
             "tableSchema": {
                 "columns": [
                     {
@@ -225,7 +225,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 302,
+            "dc:extent": 304,
             "tableSchema": {
                 "columns": [
                     {

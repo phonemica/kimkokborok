@@ -26,9 +26,16 @@ mapper = {
     "auɯ": "au ɯ",
     "oai": "o ai",
     "oui": "ou i",
-    "aĩa": "aĩ a",
+    "aĩa": "ã j a",
     "iau": "i au",
+    "ãia": "ã j a",
+    "ãia": "ã j a",
 }
+
+concept_mapper = {
+        "right": "right [correct]",
+        "fat": "fat [a]"
+        }
 
 
 class Dataset(BaseDataset):
@@ -70,14 +77,16 @@ class Dataset(BaseDataset):
         errors = set()
 
         for entry in data:
-            if entry["SOURCE_CONCEPT"] in concepts:
+            concept = concept_mapper.get(entry["SOURCE_CONCEPT"], 
+                                         entry["SOURCE_CONCEPT"])
+            if concept in concepts:
                 segments_ = entry["TOKENS"].split()
                 segments = []
                 for s in segments_:
                     segments += mapper.get(s, s).split(" ")
                 args.writer.add_form_with_segments(
                     Language_ID=entry["DOCULECT"],
-                    Parameter_ID=concepts[entry["SOURCE_CONCEPT"]],
+                    Parameter_ID=concepts[concept],
                     Value=entry["IPA"],
                     Form=entry["IPA"],
                     Segments=segments,

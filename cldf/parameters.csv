@@ -117,6 +117,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 116-knee,knee,1371,KNEE
 117-foot,foot,1301,FOOT
 118-bone,bone,1394,BONE
+119-fata,fat [a],323,FAT (ORGANIC SUBSTANCE)
 120-skin,skin,763,SKIN
 121-blood,blood,946,BLOOD
 122-sweat,sweat,125,SWEAT (SUBSTANCE)
@@ -259,6 +260,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 260-spicyhot,"spicy, hot",544,SPICY
 261-ripe,ripe,178,RIPE
 262-rottenfruit,rotten (fruit),1728,ROTTEN
+263-rightcorrect,right [correct],1725,CORRECT (RIGHT)
 264-wrong,wrong,1390,WRONG
 265-fast,fast,1631,FAST
 266-slow,slow,701,SLOW
